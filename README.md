@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rustic0la)
-
-
 - 🔭 I’m currently working on CodeSquad - LeetCode clone with markdown editor
 - 🌱 I’m currently learning python & web3
 - ⚡  I have pets: 🐈 🐈‍⬛ 🐕
