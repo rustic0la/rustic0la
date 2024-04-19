@@ -2,17 +2,17 @@
 
 - 🔭 I’m currently working on CodeSquad - LeetCode clone with markdown editor
 - 🌱 I’m currently learning python & web3
-- ⚡  I have pets: 🐈 🐈‍⬛ 🐕
+- ⚡  I study philosophy
 
 
 - 📫 How to reach me [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/rustic0la)
 
+<img src="cat.gif" />
 
 
 ---
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rustic0la&layout=compact&count_private=true&theme=gruvbox" />
-<img src="cat.gif" />
 
 ---
 
