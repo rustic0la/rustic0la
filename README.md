@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on CodeSquad - LeetCode clone with markdown editor
-- 🌱 I’m currently learning python & web3
+- 🔭 I’m currently working on LeetCode clone with markdown editor
+- 🌱 I’m keen on learning python & web3
 - ⚡  I study philosophy
 
 
@@ -52,8 +52,7 @@
 
 
 ---
-##  💻  𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+##  💻  W𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 [![article-hub](https://svg.bookmark.style/api?url=https://github.com/rustic0la/ArticleHub&mode=light&style=horizontal)](https://github.com/rustic0la/ArticleHub)
-[![code-squad](https://svg.bookmark.style/api?url=https://github.com/rustic0la/code-squad&mode=dark&style=horizontal)](https://github.com/rustic0la/code-squad)
 [![Cumpol](https://svg.bookmark.style/api?url=https://github.com/rustic0la/cumpol&mode=light&style=horizontal)](https://github.com/rustic0la/cumpol)
