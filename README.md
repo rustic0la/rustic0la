@@ -4,9 +4,6 @@
 - 🌱 I’m keen on learning python & web3
 - ⚡  I study philosophy
 
-
-- 📫 How to reach me [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/rustic0la)
-
 <img src="cat.gif" />
 
 
@@ -49,10 +46,3 @@
 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-
-
----
-##  💻  W𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-
-[![article-hub](https://svg.bookmark.style/api?url=https://github.com/rustic0la/ArticleHub&mode=light&style=horizontal)](https://github.com/rustic0la/ArticleHub)
-[![Cumpol](https://svg.bookmark.style/api?url=https://github.com/rustic0la/cumpol&mode=light&style=horizontal)](https://github.com/rustic0la/cumpol)
